@@ -1,5 +1,6 @@
-Meu Portfólio e Blog Pessoal 🚀
-Sobre o Projeto
+<h1>Meu Portfólio e Blog Pessoal</h1>🚀
+<br>
+<h2>Sobre o Projeto</h2>
 Bem-vindo ao meu site pessoal! Este projeto é uma plataforma onde compartilho minha trajetória na área da tecnologia, incluindo meu currículo, certificações, experiência profissional e um blog com conteúdos variados sobre programação, tecnologia e desenvolvimento pessoal.
 
 Funcionalidades Atuais
