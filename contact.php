@@ -1,9 +1,9 @@
 <?php
 // Configuração do banco de dados
-$host = "sql108.infinityfree.com";
-$user = "if0_38223507";
-$pass = "OKp7pZMCsE2dsTY";
-$dbname = "if0_38223507_emaildados";
+$host = "sql106.infinityfree.com";
+$user = "if0_38223453";
+$pass = "0LP5ENRfK3Vjb";
+$dbname = "if0_38223453_gerenciador_dados";
 
 // Criar conexão
 $conn = new mysqli($host, $user, $pass, $dbname);
